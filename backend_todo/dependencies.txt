@@ -1,0 +1,15 @@
+Dependencies installed
+
+npm init
+
+npm i express
+
+npm i mangoose
+
+npm i cors
+
+npm i body-parser
+
+npm i nodemon --dev    (This is the package installed in order that whenever the changes are made to the backend file, just by saving the file it reflects on the hosted browser tab, and no need to restart the complete server)
+
+nodemon server.js  (This is the command used to start the server once the nodemon is installed  {server.js is the name of the file in which the code for the backend is written.})
